@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 18 19:15:48 2018
-
-@author: Rony Sulca
+@author: Hani Yacoub
 """
 
 #### Importing Libraries ####
